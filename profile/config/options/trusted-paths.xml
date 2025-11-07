@@ -1,0 +1,10 @@
+<application>
+  <!-- 受信任的位置 -->
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\User\workspace" />
+      </list>
+    </option>
+  </component>
+</application>

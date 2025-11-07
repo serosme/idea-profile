@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <!-- 隐藏版权信息 -->
+    <option name="myShellPath" value="powershell.exe -nologo" />
+  </component>
+</application>

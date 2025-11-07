@@ -1,0 +1,10 @@
+<application>
+  <component name="DateTimeFormatter">
+    <!-- 重写系统日期和时间格式 -->
+    <option name="overrideSystemDateFormat" value="true" />
+    <!-- 日期格式 -->
+    <option name="dateFormatPattern" value="yyyy-MM-dd" />
+    <!-- 使用美化的格式 -->
+    <option name="prettyFormattingAllowed" value="false" />
+  </component>
+</application>
