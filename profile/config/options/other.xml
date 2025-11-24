@@ -1,4 +1,5 @@
 <application>
+  <!-- 界面UI -->
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="Maple Mono" />
     <option name="fontSize" value="13.0" />

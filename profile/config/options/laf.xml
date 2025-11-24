@@ -1,4 +1,5 @@
 <application>
+  <!-- 主题 -->
   <component name="LafManager">
     <laf themeId="Islands Dark" />
   </component>

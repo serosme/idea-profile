@@ -1,0 +1,6 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <!-- 插件自动更新 -->
+    <option name="PLUGINS_AUTO_UPDATE" value="true" />
+  </component>
+</application>

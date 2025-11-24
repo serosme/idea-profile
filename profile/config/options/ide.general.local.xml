@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralLocalSettings">
+    <!-- 默认项目路径 -->
     <option name="defaultProjectDirectory" value="C:\Users\User\workspace" />
   </component>
 </application>
