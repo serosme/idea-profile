@@ -1,4 +1,5 @@
 <application>
+  <!-- 编辑器配色方案 -->
   <component name="EditorColorsManagerImpl">
     <global_color_scheme name="Islands Dark" />
   </component>
