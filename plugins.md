@@ -9,7 +9,3 @@
 [Spring Debugger](https://plugins.jetbrains.com/plugin/25302-spring-debugger)
 
 [SonarQube for IDE](https://plugins.jetbrains.com/plugin/7973-sonarqube-for-ide)
-
-## UnInstall
-
-Code With Me
